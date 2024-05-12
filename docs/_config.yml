@@ -30,7 +30,7 @@ url: "https://nawk.github.io" # the base hostname & protocol for your site, e.g.
 github_username:  kwan7595
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 
